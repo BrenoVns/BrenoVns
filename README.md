@@ -10,6 +10,4 @@
   <img align="center" alt="Breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
-  ##  
-  
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrenoVns&repo=termo-helper&theme=cobalt)](https://github.com/BrenoVns/termo-helper) -->
